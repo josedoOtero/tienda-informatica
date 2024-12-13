@@ -1,0 +1,6 @@
+<header class="bg-primary text-white text-center py-4">
+    <div class="container">
+        <h1 class="display-4">Tienda Informatica</h1>
+        <p class="lead">CRUD para la gestion de fabricantes y productos</p>
+    </div>
+</header>
